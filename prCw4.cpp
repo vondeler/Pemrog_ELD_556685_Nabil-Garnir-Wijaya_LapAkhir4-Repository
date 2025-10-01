@@ -2,7 +2,7 @@
 using namespace std;
 int main ()
 {   
-    double x,y=1,z,n=1;
+    int x,y=1,z,n=1;
     for(x=1; x<=6; x++)
     {
         z=y-n;
@@ -14,3 +14,4 @@ int main ()
     return 0;
 
 }
+
